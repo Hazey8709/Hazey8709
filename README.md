@@ -4,6 +4,8 @@
 ,videos,anything I can get my hands on to learn ,also want to learn to write code  quite overwhelmed
 Won't lie lol
 
+I start school this week for Full Stack Web Dev    Hope all goes well !
+
 If you'd like to teach me some tricks or more than I know 
 I'm open to learn my contact>>>///email... jfhazey87@outlook.com
 
