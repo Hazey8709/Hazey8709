@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hazey8709
+- 👋 Hi, I’m Hazey87
 
 - 🌱 I’m currently learning ... kali linux on my own  from online ,hacking app teaching commands
 ,videos,anything I can get my hands on to learn ,also want to learn to write code  quite overwhelmed
