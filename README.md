@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Hazey87
+- 👋 Hi, my name is **Jordan**  ( *aka:* **Hazey87** ,   **Noobie J** )
 
-- 🌱 I’m currently learning ... kali linux on my own  from online ,hacking app teaching commands
-,videos,anything I can get my hands on to learn ,also want to learn to write code  quite overwhelmed
-Won't lie lol
+- 🌱 I’m currently learning ... Kali Linux on my own / Ethical Hacking, videos & tutorials. Anything I can get my hands on to learn.
 
-I start school this week for Full Stack Web Dev    Hope all goes well !
+I'm in school for Full Stack Web Development (Associates Degree) at Bryan University.
 
 If you'd like to teach me some tricks or more than I know 
-I'm open to learn my contact>>>///email... jfhazey87@outlook.com
+I'm open to learn. **My Contact:** *Email:* jfhazey87@outlook.com
 
 <!---
 Hazey8709/Hazey8709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
