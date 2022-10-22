@@ -1,11 +1,60 @@
-- 👋 Hi, my name is **Jordan**  ( *aka:* **Hazey87** ,   **Noobie J** )
+ # Intro
+ 
+ 👋 Hi, my name is **Jordan**  ( *aka:* **Hazey87** ,   **Noobie J** )
+ 
+ I'm studying to be a Web Developer. 
+ 
 
-- 🌱 I’m currently learning ... Kali Linux on my own / Ethical Hacking, videos & tutorials. Anything I can get my hands on to learn.
+# School:
 
-I'm in school for Full Stack Web Development (Associates Degree) at Bryan University.
+  - Bryan University (10/25/21 - 6/10/22)
+  
+  - Full Sail University (6/25/22 - Still Attending...)
 
-If you'd like to teach me some tricks or more than I know 
-I'm open to learn. **My Contact:** *Email:* jfhazey87@outlook.com
+# Email:
+
+  - jfhazey87@outlook.com
+  
+  - jfmac.sudo@icloud.com
+  
+ # Links:
+  
+  YouTube:
+  
+    -
+  GitHub:
+  
+    -
+    
+    
+    
+# Area Of Interest:
+
+  - Web Development            
+  
+  - HTML
+  
+  - CSS
+  
+  - JavaScript
+  
+  - Full Stack Web Development
+   
+  - NPM
+  
+  - Node.js
+  
+  - Postman
+  
+  - Raspberry PI
+  
+  - Kali Linux
+  
+  - Penetesting
+  
+  - React
+  
+  - Express
 
 <!---
 Hazey8709/Hazey8709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
