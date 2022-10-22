@@ -7,59 +7,59 @@
 
 # School:
 
-  - Bryan University (10/25/21 - 6/10/22)
+  - *Bryan University (10/25/21 - 6/10/22)*
   
-  - Full Sail University (6/25/22 - Still Attending...)
+  - *Full Sail University (6/25/22 - Still Attending...)*
 
 # Email:
 
-  - jfhazey87@outlook.com
+  - *jfhazey87@outlook.com*
   
-  - jfmac.sudo@icloud.com
+  - *jfmac.sudo@icloud.com*
   
  # Links:
   
   YouTube:
   
-   - https://www.youtube.com/channel/UC7fWlqdyFBA1FwEVhtDMcuA
+   - *https://www.youtube.com/channel/UC7fWlqdyFBA1FwEVhtDMcuA*
     
   GitHub:
   
-   - https://github.com/Hazey8709/Hazey8709/
+   - *https://github.com/Hazey8709/Hazey8709/*
     
   Facebook:
   
-   - https://www.facebook.com/people/Noobie-Js/100077721983756/
+   - *https://www.facebook.com/people/Noobie-Js/100077721983756/*
     
     
     
 # Area Of Interest:
 
-  - Web Development            
+  - *Web Development*        
   
-  - HTML
+  - *HTML*
   
-  - CSS
+  - *CSS*
   
-  - JavaScript
+  - *JavaScript*
   
-  - Full Stack Web Development
+  - *Full Stack Web Development*
    
-  - NPM
+  - *NPM*
   
-  - Node.js
+  - *Node.js*
   
-  - Postman
+  - *Postman*
   
-  - Raspberry PI
+  - *Raspberry PI*
   
-  - Kali Linux
+  - *Kali Linux*
   
-  - Penetesting
+  - *Penetesting*
   
-  - React
+  - *React*
   
-  - Express
+  - *Express*
 
 <!---
 Hazey8709/Hazey8709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
