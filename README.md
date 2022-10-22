@@ -21,11 +21,11 @@
   
   YouTube:
   
-    - https://www.youtube.com/channel/UC7fWlqdyFBA1FwEVhtDMcuA
+   - https://www.youtube.com/channel/UC7fWlqdyFBA1FwEVhtDMcuA
     
   GitHub:
   
-    - https://github.com/Hazey8709/Hazey8709/
+   - https://github.com/Hazey8709/Hazey8709/
     
   Facebook:
   
