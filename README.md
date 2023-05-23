@@ -9,7 +9,8 @@
 
   - *Bryan University (10/25/21 - 6/10/22)*
   
-  - *Full Sail University (6/25/22 - Still Attending...)*
+  - *Full Sail University (6/25/22 - 5/4/2023)*
+  - Web Design and Development Associates of Science
 
 # Email:
 
