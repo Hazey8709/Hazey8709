@@ -46,6 +46,10 @@ Jordan
   
    - *https://www.facebook.com/people/Noobie-Js/100077721983756/*
     
+  LinkedIn:
+  
+   - *https://www.linkedin.com/in/jordan-f-97980725b/*
+    
     
     
 # Area Of Interest:
