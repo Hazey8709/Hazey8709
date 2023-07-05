@@ -79,7 +79,7 @@ Jordan
 # GitHub Index Of Contents (work in-progress)
 
 ## Bryan University
--[**FSW-113:**](https://github.com/Hazey8709/FSW-113) <br />
+### -[**FSW-113:**](https://github.com/Hazey8709/FSW-113) <br />
 [*Capstone*](https://github.com/Hazey8709/FSW-113/tree/main/capstone),
 [*Week-1*](https://github.com/Hazey8709/FSW-113/tree/main/week1),
 [*Week-2*](https://github.com/Hazey8709/FSW-113/tree/main/week2),
@@ -89,7 +89,7 @@ Jordan
 [*Week-6*](https://github.com/Hazey8709/FSW-113/tree/main/week6),
 <br />
 
--[**FSW-115:**](https://github.com/Hazey8709/FSW-115) <br />
+### -[**FSW-115:**](https://github.com/Hazey8709/FSW-115) <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-115/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-115/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-115/tree/main/Week-3),
@@ -99,7 +99,7 @@ Jordan
 [*Week-7*](https://github.com/Hazey8709/FSW-115/tree/main/Week-7),
 <br />
 
--[**FSW-123:**](https://github.com/Hazey8709/FSW-123) <br />
+### -[**FSW-123:**](https://github.com/Hazey8709/FSW-123) <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-123/tree/main/Week-1/my-app),
 [*Week-2*](https://github.com/Hazey8709/FSW-123/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-123/tree/main/Week-3),
@@ -109,7 +109,7 @@ Jordan
 [*Week-7*](https://github.com/Hazey8709/FSW-123/tree/main/Week-7),
 <br />
 
--[**FSW-110:**](https://github.com/Hazey8709/FSW-110-) <br />
+### -[**FSW-110:**](https://github.com/Hazey8709/FSW-110-) <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-3),
@@ -119,10 +119,10 @@ Jordan
 [*Week-7*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-7),
 <br />
 
--[**FSW-105:** *(Archieved)*](https://github.com/Hazey8709/FSW-105) <br />
+### -[**FSW-105:** *(Archieved)*](https://github.com/Hazey8709/FSW-105) <br />
 <br />
 
--[**FSW-125:**](https://github.com/Hazey8709/FSW-125) <br />
+### -[**FSW-125:**](https://github.com/Hazey8709/FSW-125) <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-125/tree/main/Week-1/math),
 [*Week-2*](https://github.com/Hazey8709/FSW-125/tree/main/Week-2/first-server),
 [*Week-3*](https://github.com/Hazey8709/FSW-125/tree/main/Week-3),
@@ -132,7 +132,7 @@ Jordan
 [*Week-7*](https://github.com/Hazey8709/FSW-125/tree/main/Week-7),
 <br />
 
--[**FSW-100:**](https://github.com/Hazey8709/FSW-100-) <br />
+### -[**FSW-100:**](https://github.com/Hazey8709/FSW-100-) <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-3),
@@ -143,10 +143,10 @@ Jordan
 <br />
 
 
--[**capStone-Project:**](https://github.com/Hazey8709/CapStone-Project) <br />
+### -[**capStone-Project:**](https://github.com/Hazey8709/CapStone-Project) <br />
 <br />
 
--[**NPM:**](https://github.com/Hazey8709/NPM) <br />
+### -[**NPM:**](https://github.com/Hazey8709/NPM) <br />
 [*Capstone-project*](https://github.com/Hazey8709/NPM/tree/main/Capstone-project),
 [*Escape-roomgame*](https://github.com/Hazey8709/NPM/tree/main/Escape-roomgame),
 [*Calculator3*](https://github.com/Hazey8709/NPM/blob/main/Calculator3.js),
@@ -155,7 +155,7 @@ Jordan
 
 
 ## Full Sail University
--[**interface:**](https://github.com/Hazey8709/interface) <br />
+### -[**interface:**](https://github.com/Hazey8709/interface) <br />
 ###### Branches <br />
 [*DEV*](https://github.com/Hazey8709/interface/tree/DEV),
 [*MileStone2*](https://github.com/Hazey8709/interface/tree/MileStone2),
@@ -163,25 +163,25 @@ Jordan
 [*Milestone4*](https://github.com/Hazey8709/interface/tree/Milestone4),
 <br />
 
--[**dev2501-final:**](https://github.com/Hazey8709/dev2501-final) <br />
+### -[**dev2501-final:**](https://github.com/Hazey8709/dev2501-final) <br />
 ###### Branches <br />
 [*router-Branch*](https://github.com/Hazey8709/dev2501-final/tree/router-Branch),
 [*04_API-final*](https://github.com/Hazey8709/dev2501-final/tree/04_API-final),
 <br />
 
--[**practice_2-4:**](https://github.com/Hazey8709/practice_2-4) <br />
+### -[**practice_2-4:**](https://github.com/Hazey8709/practice_2-4) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/practice_2-4),
 [*mod2-5*](https://github.com/Hazey8709/practice_2-4/tree/mod2-5),
 <br />
 
--[**app1-3:**](https://github.com/Hazey8709/app1-3) <br />
+### -[**app1-3:**](https://github.com/Hazey8709/app1-3) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/app1-3),
 [*04_API-final*](https://github.com/Hazey8709/dev2501-final/tree/04_API-final),
 <br />
 
--[**mod-3:**](https://github.com/Hazey8709/mod-3) <br />
+### -[**mod-3:**](https://github.com/Hazey8709/mod-3) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/mod-3),
 [*mod3-3*](https://github.com/Hazey8709/mod-3/tree/mod3-3),
@@ -190,50 +190,50 @@ Jordan
 [*mod4-4*](https://github.com/Hazey8709/mod-3/tree/mod4-4),
 <br />
 
--[**mod2-4:**](https://github.com/Hazey8709/mod2-4) <br />
+### -[**mod2-4:**](https://github.com/Hazey8709/mod2-4) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/mod2-4),
 [*mod2-6*](https://github.com/Hazey8709/mod2-4/tree/mod2-6),
 <br />
 
--[**mod1-Pract:**](https://github.com/Hazey8709/mod1-Pract) <br />
+### -[**mod1-Pract:**](https://github.com/Hazey8709/mod1-Pract) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/mod1-Pract),
 [*Mod1-6*](https://github.com/Hazey8709/mod1-Pract/tree/Mod1.6),
 [*Mod1.7*](https://github.com/Hazey8709/mod1-Pract/tree/Mod1.7),
 <br />
 
---[**1-3_redesign:**](https://github.com/Hazey8709/1-3_redesign) <br />
+### -[**1-3_redesign:**](https://github.com/Hazey8709/1-3_redesign) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/1-3_redesign),
 [*Dev-branch*](https://github.com/Hazey8709/1-3_redesign/tree/Dev-branch),
 [*temp*](https://github.com/Hazey8709/1-3_redesign/tree/temp),
 <br />
 
---[**Dev2501-Fortin_1-3:**](https://github.com/Hazey8709/Dev2501-Fortin_1-3) <br />
+### -[**Dev2501-Fortin_1-3:**](https://github.com/Hazey8709/Dev2501-Fortin_1-3) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/Dev2501-Fortin_1-3),
 [*01_Components*](https://github.com/Hazey8709/Dev2501-Fortin_1-3/tree/01_Components),
 [*Dev*](https://github.com/Hazey8709/Dev2501-Fortin_1-3/tree/Dev),
 <br />
 
---[**devFinal:**](https://github.com/Hazey8709/devFinal) <br />
+### -[**devFinal:**](https://github.com/Hazey8709/devFinal) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/devFinal),
 <br />
 
---[**fakerJS-2:**](https://github.com/Hazey8709/fakerJS-2) <br />
+### -[ **fakerJS-2:**](https://github.com/Hazey8709/fakerJS-2) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/fakerJS-2),
 <br />
 
---[**Project-fakerJS:**](https://github.com/Hazey8709/Project-fakerJS) <br />
+### -[**Project-fakerJS:**](https://github.com/Hazey8709/Project-fakerJS) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/Project-fakerJS),
 [*deploy*](https://github.com/Hazey8709/Project-fakerJS/tree/deploy),
 <br />
 
---[**DEV2301-O:**](https://github.com/Hazey8709/DEV2301-O) <br />
+### -[**DEV2301-O:**](https://github.com/Hazey8709/DEV2301-O) <br />
 ###### Branches <br />
 [*Main*](https://github.com/Hazey8709/DEV2301-O),
 <br />
@@ -241,8 +241,34 @@ Jordan
 
 ## Projects
 
+### -[**CheatSheet**](https://github.com/Hazey8709/CheatSheet) <br />
+###### Category <br />
+[*CSS*](https://github.com/Hazey8709/CheatSheet/tree/main/CSS),
+[*Git*](https://github.com/Hazey8709/CheatSheet/tree/main/Git),
+[*GitBash*](https://github.com/Hazey8709/CheatSheet/tree/main/GitBash),
+[*HTML*](https://github.com/Hazey8709/CheatSheet/tree/main/HTML),
+[*JavaScript*](https://github.com/Hazey8709/CheatSheet/tree/main/JavaScript),
+[*Linux*](https://github.com/Hazey8709/CheatSheet/tree/main/Linux),
+[*VS-Code*](https://github.com/Hazey8709/CheatSheet/tree/main/VS-Code),
+[*Windows-OS*](https://github.com/Hazey8709/CheatSheet/tree/main/Windows-OS),
+<BR />
+
+###### Web Sites <br />
+https://quickref.me/  <br />
+https://docs.emmet.io/cheat-sheet/  <br />
+https://htmlcheatsheet.com/  <br />
+https://htmlcheatsheet.com/css/  <br />
+https://htmlcheatsheet.com/js/  <br />
+https://reactcheatsheet.com/  <br />
+https://devhints.io/react  <br />
+https://htmlcolorcodes.com/  <br />
+https://v5.reactrouter.com/web/example/modal-gallery  <br />
+<br />
+
+
+
 ## Tutorials
--[**learnHtml:**](https://github.com/Hazey8709/learnHtml) <br />
+### -[**learnHtml:**](https://github.com/Hazey8709/learnHtml) <br />
 [*SetUp-1*](https://github.com/Hazey8709/learnHtml/tree/main/setUp-1),
 [*SetUp*](https://github.com/Hazey8709/learnHtml/tree/main/setUp),
 [*Tags-1*](https://github.com/Hazey8709/learnHtml/tree/main/tags-1),
@@ -259,7 +285,7 @@ Jordan
 [*Map-12*](https://github.com/Hazey8709/learnHtml/tree/main/map-12),
 <br />
 
--[**css-html_Tut:**](https://github.com/Hazey8709/css-html_Tut) <br />
+### -[**css-html_Tut:**](https://github.com/Hazey8709/css-html_Tut) <br />
 [*CSS-Styles-1*](https://github.com/Hazey8709/css-html_Tut/tree/main/css-styles-1),
 [*Styles-2*](https://github.com/Hazey8709/css-html_Tut/tree/main/styles-2),
 [*Selectors-2*](https://github.com/Hazey8709/css-html_Tut/tree/main/selectors-3),
