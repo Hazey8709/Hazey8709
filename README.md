@@ -80,6 +80,7 @@ Jordan
 
 ## Bryan University
 ### -[**FSW-113:**](https://github.com/Hazey8709/FSW-113) <br />
+###### Directories <br />
 [*Capstone*](https://github.com/Hazey8709/FSW-113/tree/main/capstone),
 [*Week-1*](https://github.com/Hazey8709/FSW-113/tree/main/week1),
 [*Week-2*](https://github.com/Hazey8709/FSW-113/tree/main/week2),
@@ -90,6 +91,7 @@ Jordan
 <br />
 
 ### -[**FSW-115:**](https://github.com/Hazey8709/FSW-115) <br />
+###### Directories <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-115/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-115/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-115/tree/main/Week-3),
@@ -100,6 +102,7 @@ Jordan
 <br />
 
 ### -[**FSW-123:**](https://github.com/Hazey8709/FSW-123) <br />
+###### Directories <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-123/tree/main/Week-1/my-app),
 [*Week-2*](https://github.com/Hazey8709/FSW-123/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-123/tree/main/Week-3),
@@ -110,6 +113,7 @@ Jordan
 <br />
 
 ### -[**FSW-110:**](https://github.com/Hazey8709/FSW-110-) <br />
+###### Directories <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-110-/tree/main/Week-3),
@@ -123,6 +127,7 @@ Jordan
 <br />
 
 ### -[**FSW-125:**](https://github.com/Hazey8709/FSW-125) <br />
+###### Directories <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-125/tree/main/Week-1/math),
 [*Week-2*](https://github.com/Hazey8709/FSW-125/tree/main/Week-2/first-server),
 [*Week-3*](https://github.com/Hazey8709/FSW-125/tree/main/Week-3),
@@ -133,6 +138,7 @@ Jordan
 <br />
 
 ### -[**FSW-100:**](https://github.com/Hazey8709/FSW-100-) <br />
+###### Directories <br />
 [*Week-1*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-1),
 [*Week-2*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-2),
 [*Week-3*](https://github.com/Hazey8709/FSW-100-/tree/main/Week-3),
@@ -147,6 +153,7 @@ Jordan
 <br />
 
 ### -[**NPM:**](https://github.com/Hazey8709/NPM) <br />
+###### Directories <br />
 [*Capstone-project*](https://github.com/Hazey8709/NPM/tree/main/Capstone-project),
 [*Escape-roomgame*](https://github.com/Hazey8709/NPM/tree/main/Escape-roomgame),
 [*Calculator3*](https://github.com/Hazey8709/NPM/blob/main/Calculator3.js),
