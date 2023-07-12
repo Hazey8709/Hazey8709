@@ -11,6 +11,7 @@
 Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!
 
 Jordan
+<hr />
  
 
 # School:
@@ -19,12 +20,14 @@ Jordan
   
   - *Full Sail University (6/25/22 - 5/4/2023)*
   - Web Design and Development Associates of Science
+<hr />
 
 # Email:
 
   - *jfhazey87@outlook.com*
   
   - *jfmac.sudo@icloud.com*
+<hr />
   
  # Links:
   
@@ -43,8 +46,8 @@ Jordan
   LinkedIn:
   
    - *https://www.linkedin.com/in/jordan-f-97980725b/*
-    
-    
+
+<hr />
     
 # Area Of Interest:
 
@@ -73,10 +76,11 @@ Jordan
   - *React*
   
   - *Express*
+<hr />
 
 
-
-# Hazey8709 Index Of Contents (work in-progress)
+# ------   Hazey8709 Index Of Contents (work in-progress)  ------
+<hr />
 
 # Bryan University:
 ### -[**FSW-113:**](https://github.com/Hazey8709/FSW-113) <br />
