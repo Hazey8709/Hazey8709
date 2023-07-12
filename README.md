@@ -217,7 +217,7 @@ Jordan
 
 ## -[**mod2-4:**](https://github.com/Hazey8709/mod2-4) <br />
 ##### Details: <br />
-*Backend crud operations (Get-All, Get-byId). API: Pokemon.*
+*Backend crud operations (Get-All, Get-byId). API: Pokemon. Jest- testing*
 ##### Branches: <br />
 [*Main*](https://github.com/Hazey8709/mod2-4),
 [*mod2-6*](https://github.com/Hazey8709/mod2-4/tree/mod2-6),
