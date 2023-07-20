@@ -12,6 +12,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 Jordan
 <hr />
+<br />
  
 
 # School:
@@ -19,8 +20,9 @@ Jordan
   - *Bryan University (10/25/21 - 6/10/22)*
   
   - *Full Sail University (6/25/22 - 5/4/2023)*
-  - Web Design and Development Associates of Science
+  - *Associates of Science in Web Design and Development*
 <hr />
+<br />
 
 # Email:
 
@@ -28,6 +30,7 @@ Jordan
   
   - *jfmac.sudo@icloud.com*
 <hr />
+<br />
   
  # Links:
   
@@ -48,6 +51,7 @@ Jordan
    - *https://www.linkedin.com/in/jordan-f-97980725b/*
 
 <hr />
+<br />
     
 # Area Of Interest:
 
@@ -77,10 +81,12 @@ Jordan
   
   - *Express*
 <hr />
+<br />
 
 
 # ------   Hazey8709 Index Of Contents (work in-progress)  ------
 <hr />
+<br />
 
 # Bryan University:
 ### -[**FSW-113:**](https://github.com/Hazey8709/FSW-113) <br />
@@ -171,10 +177,13 @@ Jordan
 [*Calculator3*](https://github.com/Hazey8709/NPM/blob/main/Calculator3.js),
 <br />
 <hr />
+<br />
 
 
 
 # Full Sail University:
+
+
 ### -[**interface:**](https://github.com/Hazey8709/interface) <br />
 ##### Branches: <br />
 [*DEV*](https://github.com/Hazey8709/interface/tree/DEV),
@@ -271,6 +280,7 @@ Jordan
 ##### Branches: <br />
 [*Main*](https://github.com/Hazey8709/DEV2301-O),
 <br />
+<br />
 
 
 # Projects:
@@ -298,7 +308,8 @@ https://devhints.io/react  <br />
 https://htmlcolorcodes.com/  <br />
 https://v5.reactrouter.com/web/example/modal-gallery  <br />
 <br />
-
+<hr />
+<br />
 
 
 ## Tutorials
