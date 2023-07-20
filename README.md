@@ -295,6 +295,9 @@ Jordan
 [*Linux*](https://github.com/Hazey8709/CheatSheet/tree/main/Linux),
 [*VS-Code*](https://github.com/Hazey8709/CheatSheet/tree/main/VS-Code),
 [*Windows-OS*](https://github.com/Hazey8709/CheatSheet/tree/main/Windows-OS),
+[*Mac-OS*](https://github.com/Hazey8709/CheatSheet/tree/main/Mac-OS),
+[*EmailToText*](https://github.com/Hazey8709/CheatSheet/tree/main/EmailToText),
+[*BashScript*](https://github.com/Hazey8709/CheatSheet/tree/main/BashScript),
 <BR />
 
 ##### Web Sites <br />
