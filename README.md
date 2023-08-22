@@ -20,19 +20,31 @@ Jordan
   - *Bryan University (10/25/21 - 6/10/22)*
   
   - *Full Sail University (6/25/22 - 5/4/2023)*
-  - *Associates of Science in Web Design and Development*
+  - *Associates of Science in Web Design and Development (5/4/2023)*
+  - **Award:** Valedictorian
 <hr />
 <br />
 
 # Email:
 
-  - *jfhazey87@outlook.com*
-  
-  - *jfmac.sudo@icloud.com*
+   - *jfmac.sudo@icloud.com*
+   - *jfortin@noobiej.tech*
+   - *JMFortin@alumni.fullsail.edu*
+   - *questions@noobiej.tech*
+   - *learn@noobiej.tech*
+   - *work@noobiej.tech*
+ 
 <hr />
 <br />
 
 # Live Project Links:
+Profile: [Noobie J](https://noobiej.tech) <br />
+Project Link: [CSS Selectors]() <br />
+Calculator Project: [Calculator](https://calculator.noobiej.tech/) <br />
+Todo-List Project: [Todo-List](http://todo-list.noobiej.tech/) <br />
+Responsive Viewer: [Responsive-Viewer](http://responsiveviewer.noobiej.tech/)  <br />
+First Website: [Doggos](https://spacedoggo.noobiej.tech/) <br />
+
 <hr />
 <br />
   
@@ -304,7 +316,7 @@ Jordan
 [*BashScript*](https://github.com/Hazey8709/CheatSheet/tree/main/BashScript),
 <BR />
 
-##### Web Sites <br />
+##### Web Sites: <br />
 https://quickref.me/  <br />
 https://docs.emmet.io/cheat-sheet/  <br />
 https://htmlcheatsheet.com/  <br />
@@ -319,7 +331,7 @@ https://v5.reactrouter.com/web/example/modal-gallery  <br />
 <br />
 
 
-## Tutorials
+## Tutorials:
 ### -[**learnHtml:**](https://github.com/Hazey8709/learnHtml) <br />
 [*SetUp-1*](https://github.com/Hazey8709/learnHtml/tree/main/setUp-1),
 [*SetUp*](https://github.com/Hazey8709/learnHtml/tree/main/setUp),
