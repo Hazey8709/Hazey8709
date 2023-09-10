@@ -39,7 +39,7 @@ Jordan
 
 # Live Project Links:
 Profile: [Noobie J](https://noobiej.tech) <br />
-Project Link: [CSS Selectors]() <br />
+Project Link: [CSS Selectors](https://css-selectors.noobiej.tech/) <br />
 Calculator Project: [Calculator](https://calculator.noobiej.tech/) <br />
 Todo-List Project: [Todo-List](http://todo-list.noobiej.tech/) <br />
 Responsive Viewer: [Responsive-Viewer](http://responsiveviewer.noobiej.tech/)  <br />
