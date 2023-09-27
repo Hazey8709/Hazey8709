@@ -15,7 +15,12 @@ Jordan
 <br />
 
 # Quick Links Menu
+##  [Live Project Links:] (/child.md#Live-Project-Links:)    
+##  [sub-section](/child.md#Email)
+##  [sub-section](child.md#sub-section)
 
+<hr />
+<br />
 
 # School:
 
