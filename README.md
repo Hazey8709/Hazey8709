@@ -15,9 +15,9 @@ Jordan
 <br />
 
 # Quick Links Menu
-##  [Live Project Links:] (/child.md#Live-Project-Links:)    
-##  [sub-section](/README.md#Email)
-##  [sub-section](child.md#sub-section)
+####  [Live Project Links:] (/README.md#Live Project Links:)    
+#### [Email:](/README.md#Email)
+####  [sub-section](child.md#sub-section)
 
 <hr />
 <br />
