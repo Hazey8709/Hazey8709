@@ -15,7 +15,7 @@ Jordan
 <br />
 
 # Quick Links Menu
-[Live Project Links:](/README.md##Live-Project-Links)    
+[Live Project Links:](#live-project-links)    
 [Email:](/README.md##Email) <br />
 [Bryan University:](/README.md##Bryan-University)
 
