@@ -15,9 +15,15 @@ Jordan
 <br />
 
 # Quick Links Menu
-[Live Project Links:](#live-project-links)    
-[Email:](/README.md##Email) <br />
-[Bryan University:](/README.md##Bryan-University)
+[School:](#school) <br />
+[Email:](#email) <br />
+[Live Project Links:](#live-project-links) <br />
+[Links:](#links) <br />
+[Area Of Interest:](#area-of-interest) <br />
+[Bryan University:](#bryan-university) <br />
+[Full Sail University](#full-sail-university) <br />
+[Projects:](#projects) <br />
+[Tutorials:](#tutorials) <br />
 
 <hr />
 <br />
